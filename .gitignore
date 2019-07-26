@@ -64,9 +64,3 @@ out
 *.iml
 /*.iml
 */*.iml
-
-
-pms-member-api/src/main/resources/
-pms-member-api/src/test/
-pms-member/src/main/java/com/sce/ifun/pms/member/shared/aop/
-pms-member/src/test/
